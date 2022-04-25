@@ -1,3 +1,4 @@
 # dependencies
 /node_modules
-/whitelist-app/node_modules
+/whitelist-frontend/node_modules
+/whitelist-frontend/.next
